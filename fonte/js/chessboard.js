@@ -6,10 +6,13 @@ vez = "branco"; //vez de quem jogar
 	document.getElementById("t12").innerHTML = "&#9822;";
 	document.getElementById("t13").innerHTML = "&#9821;";
 	document.getElementById("t14").innerHTML = "&#9819;";
-	document.getElementById("t15").innerHTML = "&#9818;";
-	document.getElementById("t16").innerHTML = "&#9821;";
-	document.getElementById("t17").innerHTML = "&#9822;";
-	document.getElementById("t18").innerHTML = "&#9820;";
+	document.getElementById("t15").innerHTML = "D";
+	document.getElementById("t16").innerHTML = "P";
+    document.getElementById("t17").innerHTML = "B";
+	document.getElementById("t18").innerHTML = "&#9818;";
+	document.getElementById("t19").innerHTML = "&#9821;";
+	document.getElementById("t110").innerHTML = "&#9822;";
+	document.getElementById("t111").innerHTML = "&#9820;";
 	
 	document.getElementById("t21").innerHTML = "&#9823;";
 	document.getElementById("t22").innerHTML = "&#9823;";
@@ -19,25 +22,34 @@ vez = "branco"; //vez de quem jogar
 	document.getElementById("t26").innerHTML = "&#9823;";
 	document.getElementById("t27").innerHTML = "&#9823;";
 	document.getElementById("t28").innerHTML = "&#9823;";
+	document.getElementById("t29").innerHTML = "&#9823;";
+	document.getElementById("t210").innerHTML = "&#9823;";
+	document.getElementById("t211").innerHTML = "&#9823;";
 	
 //muda a classe das pecas brancas(embaixo) para mostrar imgens das pecas
-	document.getElementById("t81").innerHTML = "&#9814;";
-	document.getElementById("t82").innerHTML = "&#9816;";
-	document.getElementById("t83").innerHTML = "&#9815;";
-	document.getElementById("t84").innerHTML = "&#9813;";
-	document.getElementById("t85").innerHTML = "&#9812;";
-	document.getElementById("t86").innerHTML = "&#9815;";
-	document.getElementById("t87").innerHTML = "&#9816;";
-	document.getElementById("t88").innerHTML = "&#9814;";
+	document.getElementById("t11-1").innerHTML = "&#9814;";
+	document.getElementById("t112").innerHTML = "&#9816;";
+	document.getElementById("t113").innerHTML = "&#9815;";
+	document.getElementById("t114").innerHTML = "&#9813;";
+	document.getElementById("t115").innerHTML = "D";
+	document.getElementById("t116").innerHTML = "P";
+	document.getElementById("t117").innerHTML = "B";
+	document.getElementById("t118").innerHTML = "&#9812;";
+	document.getElementById("t119").innerHTML = "&#9815;";
+	document.getElementById("t1110").innerHTML = "&#9816;";
+	document.getElementById("t1111").innerHTML = "&#9814;";
 	
-	document.getElementById("t71").innerHTML = "&#9817;";
-	document.getElementById("t72").innerHTML = "&#9817;";
-	document.getElementById("t73").innerHTML = "&#9817;";
-	document.getElementById("t74").innerHTML = "&#9817;";
-	document.getElementById("t75").innerHTML = "&#9817;";
-	document.getElementById("t76").innerHTML = "&#9817;";
-	document.getElementById("t77").innerHTML = "&#9817;";
-	document.getElementById("t78").innerHTML = "&#9817;";	
+	document.getElementById("t101").innerHTML = "&#9817;";
+	document.getElementById("t102").innerHTML = "&#9817;";
+	document.getElementById("t103").innerHTML = "&#9817;";
+	document.getElementById("t104").innerHTML = "&#9817;";
+	document.getElementById("t105").innerHTML = "&#9817;";
+	document.getElementById("t106").innerHTML = "&#9817;";
+	document.getElementById("t107").innerHTML = "&#9817;";
+	document.getElementById("t108").innerHTML = "&#9817;";
+	document.getElementById("t109").innerHTML = "&#9817;";
+	document.getElementById("t1010").innerHTML = "&#9817;";
+	document.getElementById("t1011").innerHTML = "&#9817;";
 	
 
 
