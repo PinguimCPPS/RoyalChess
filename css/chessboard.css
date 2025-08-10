@@ -5,13 +5,17 @@
 .tabPreto{background:#03C;}
 
 /* TABULEIRO*/
-#tabuleiro{width: 577px; height: 577px; border:#000 solid 1px; margin:auto;}
+#tabuleiro{width: 792px; height: 792px; border:#000 solid 1px; margin:auto;}
 
 #tabuleiro div{width:70px; height:70px; float:left; margin:1px; font-size: 48px; text-align:center;}
 
-#t11, #t13, #t15, #t17, #t22, #t24, #t26, #t28, #t31, #t33, #t35, #t37, #t42, #t44, #t46, #t48, #t51, #t53, #t55, #t57, #t62, #t64, #t66, #t68, #t71, #t73, #t75, #t77, #t82, #t84, #t86, #t88{background-color:#FFF;}
+#t11, #t13, #t15, #t17, #t19, #t111, #t22, #t24, #t26, #t28, #t210, #t31, #t33, #t35, #t37, #t39, #t311, #t42, #t44, #t46, #t48, #t410, #t51, #t53, #t55, #t57, #t59, #t511, #t62, #t64, #t66, #t68, #t610, #t71, #t73, #t75, #t77, #t79, #t711, #t82, #t84, #t86, #t88, #t810, #t91, #t93, #t95, #t97, #t99, #t911, #t102, #t104, #t106, #t108, #t1010, #t11-1, #t113, #t115, #t117, #t119, #t1111 {
+    background-color: #FFF;
+}
 
-#t12, #t14, #t16, #t18, #t21, #t23, #t25, #t27, #t32, #t34, #t36, #t38, #t41, #t43, #t45, #t47, #t52, #t54, #t56, #t58, #t61, #t63, #t65, #t67, #t72, #t74, #t76, #t78, #t81, #t83, #t85, #t87{background-color:#999;} 
+#t12, #t14, #t16, #t18, #t110, #t21, #t23, #t25, #t27, #t29, #t211, #t32, #t34, #t36, #t38, #t310, #t41, #t43, #t45, #t47, #t49, #t411, #t52, #t54, #t56, #t58, #t510, #t61, #t63, #t65, #t67, #t69, #t611, #t72, #t74, #t76, #t78, #t710, #t81, #t83, #t85, #t87, #t89, #t811, #t92, #t94, #t96, #t98, #t910, #t101, #t103, #t105, #t107, #t109, #t1011, #t112, #t114, #t116, #t118, #t1110 {
+    background-color: #999;
+} 
 
 
 div{ cursor:pointer;}
